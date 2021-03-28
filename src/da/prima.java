@@ -8,6 +8,9 @@ public class prima {
 		System.out.println("Prima modificare locala");
 		System.out.println("Test - Modificare facuta de colaborator");
 		System.out.println("Test 2");
+		
+		System.out.println("-------");
+		System.out.println("TEST PROIECT V2");
 	}
 
 }
